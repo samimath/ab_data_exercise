@@ -1,2 +1,2 @@
-# ab_data_exercise
-ab_data_exercise
+# Git repo for AB data analysis implementing in R 
+
